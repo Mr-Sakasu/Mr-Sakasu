@@ -6,26 +6,26 @@
 
 <div align="center">
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Sakasu&layout=compact&langs_count=8&theme=tokyonight"/>
+<!-- 1段目：総合統計 + 活動時間帯 -->
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Sakasu&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Sakasu&theme=tokyonight&utcOffset=9" />
 
----
-<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Sakasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<br/>
+
+<!-- 2段目：言語系（リポジトリ基準 / コミット基準） -->
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Sakasu&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Sakasu&theme=tokyonight" />
 
 </div>
 
----
-
+<hr/>
 
 <div align="center">
 
-### Contribution Stats
+### 🔥 Contribution Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Sakasu&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Sakasu&theme=tokyonight" />
 
 </div>
-
-
----
