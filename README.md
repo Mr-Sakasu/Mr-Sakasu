@@ -6,6 +6,16 @@
 
 <div align="center">
 
+### 🏙️ 3D Contribution Graph
+
+<img src="./profile-3d-contrib/profile-aurora.svg" alt="3D contribution graph" width="100%" />
+
+</div>
+
+<hr/>
+
+<div align="center">
+
 ### 📊 GitHub Statistics
 
 <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
